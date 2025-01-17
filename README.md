@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Priscilla Lantigua
+# Hi there 👋 I’m Priscilla 
 
 ### Welcome to my GitHub profile!
 I’m a Web Development student at Broward College, aspiring to become a creative and impactful Web Developer. My journey into tech has been fueled by hands-on experiences, including hackathons and certifications, where I’ve discovered my passion for solving problems and building user-friendly solutions. Nice to meet you!
